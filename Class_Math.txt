@@ -1,0 +1,106 @@
+NOME: FERNANDO CÉSAR SILVA ALVAREZ FILHO 
+CURSO: 2° INFORMÁTICA 
+
+ 
+
+*Pesquisa Classe Math* 
+
+ 
+
+abs; 
+
+Objetivo: 
+
+O Math.abs()método retorna o valor absoluto de um número. 
+
+ 
+
+ceil; 
+
+Objetivo: 
+
+O método Math.ceil() arredonda um número PARA CIMA para o inteiro mais próximo e retorna o resultado. 
+
+ 
+
+cos; 
+
+Objetivo: 
+
+O método Math.cos() retorna o cosseno de um número. 
+
+Math.cos() retorna um valor numérico entre -1 e 1, que representa o cosseno do ângulo. 
+
+ 
+
+floor; 
+
+Objetivo: 
+
+O método Math.floor() arredonda um número PARA BAIXO para o inteiro mais próximo e retorna o resultado. 
+
+ 
+
+log10; 
+
+Objetivo: 
+
+O método Math.log10() retorna o logaritmo de base 10 de um número. 
+
+ 
+
+max; 
+
+Objetivo: 
+
+O método Math.max() retorna o número com o valor mais alto. 
+
+ 
+
+min; 
+
+Objetivo: 
+
+O método Math.min() retorna o número com o menor valor. 
+
+ 
+
+pow; 
+
+Objetivo: 
+
+O método Math.pow() retorna o valor de x elevado à potência de y (x y ). 
+
+ 
+
+random; 
+
+Objetivo: 
+
+O método Math.random() retorna um número aleatório de 0 (inclusive) até, mas não incluindo, 1 (exclusivo). 
+
+ 
+
+sin; 
+
+Objetivo:  
+
+O método Math.sin() retorna o seno de um número. 
+
+Math.sin(x) retorna um valor entre -1 e 1, que representa o seno do parâmetro x. 
+
+ 
+
+tan; 
+
+Objetivo: 
+
+O método Math.tan() retorna a tangente de um número. 
+
+ 
+
+sqrt; 
+
+Objetivo: 
+
+O método Math.sqrt() retorna a raiz quadrada de um número. 
